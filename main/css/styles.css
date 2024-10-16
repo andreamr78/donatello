@@ -5,6 +5,25 @@ footer{
     display: flex;
     justify-content: flex-end;
 }
-.footer-text{
-   
+
+.carousel-slide {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+
 }
+
+
+.carousel-inner {
+    background-color: black;
+    opacity: 5;
+
+}
+
+.text-carousel {
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+    font-weight: bolder;
+
+}
+    
