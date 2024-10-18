@@ -26,4 +26,11 @@ footer{
     font-weight: bolder;
 
 }
+.card-space{
+    margin: 30px;
+}
+
+.card{
+   padding: 30px;
+}
     
