@@ -1,5 +1,5 @@
 *{
-    margin:5px
+    /* margin:5px */
 }
 footer{
     display: flex;
@@ -12,7 +12,6 @@ footer{
     object-fit: cover;
 
 }
-
 
 .carousel-inner {
     background-color: black;
